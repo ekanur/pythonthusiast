@@ -1,5 +1,5 @@
 # GIT pada PyCharm
-- Pastikan Pycarm versi updated
+- Pastikan Pycarm versi updated, download di situs langsung
 - membuka project yang sudah di clone
 - mengubah file
 - mengirim file ke github
