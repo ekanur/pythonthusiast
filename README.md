@@ -4,3 +4,7 @@
 - mengirim file ke github
 - edit dari github
 - pull di lokal
+
+## Kesimpulan
+- mengamankan kode
+- menjadi sebuah portfolio
