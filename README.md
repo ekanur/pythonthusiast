@@ -1,5 +1,5 @@
 # GIT pada PyCharm
-- Pastikan Pycarm versi updated, download di situs langsung
+- Pastikan Pycarm versi updated, download di situs langsung. di https://jetbrains.com
 - membuka project yang sudah di clone
 - mengubah file
 - mengirim file ke github
