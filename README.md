@@ -13,6 +13,10 @@
 - merubah kode di lokal
 - commit dan review perubahan yang telah dilakukan & push perubahan kode
 
+## Instalasi GIT
+- Linux, apt-get install git
+- Windows , Download dan install melalui https://git-scm.com/download/win
+
 ## Kesimpulan
 - mengamankan kode
 - menjadi sebuah portfolio
