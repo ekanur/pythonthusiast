@@ -10,4 +10,4 @@
 - Membuat dan bekerja di branch sesuai issue tracker
 - push ke branch baru ke git remote
 - merubah kode di lokal
-- commit & push perubahan kode
+- commit dan review perubahan yang telah dilakukan & push perubahan kode
